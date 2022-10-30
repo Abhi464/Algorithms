@@ -1,5 +1,6 @@
 public class Solution {
     // DO NOT MODIFY THE ARGUMENTS WITH "final" PREFIX. IT IS READ ONLY
+//     Find the majority element in the list
     public int majorityElement(final int[] A) {
         HashMap <Integer,Integer>map=new HashMap<Integer,Integer>();
         int n=A.length;
