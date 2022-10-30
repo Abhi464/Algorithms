@@ -1,4 +1,5 @@
 class Solution {
+//     Find length of a longest substring
     public int lengthOfLongestSubstring(String s) {
         HashMap<String,Integer> map = new HashMap<>();
         int left = 0;
