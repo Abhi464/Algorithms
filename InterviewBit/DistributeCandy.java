@@ -1,4 +1,5 @@
 public class Solution {
+    // Solve the candy distribution porblem using greedy
     public int candy(int[] A) {
         int n=A.length;
         if(n==0)
